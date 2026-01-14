@@ -1,0 +1,77 @@
+# Keep MANUAL.md - it's needed in the image
+!MANUAL.md
+
+# Git
+.git
+.gitignore
+.gitattributes
+.gitmodules
+
+# Documentation (except MANUAL.md and LICENSE)
+README.md
+CONTRIBUTING.md
+CHANGELOG.md
+*.txt
+!LICENSE
+
+# CI/CD
+.github
+.gitlab-ci.yml
+.travis.yml
+.circleci
+Jenkinsfile
+azure-pipelines.yml
+.drone.yml
+
+# IDE & Editors
+.vscode
+.idea
+*.swp
+*.swo
+*~
+.editorconfig
+.project
+.classpath
+.settings
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.bak
+
+# Build artifacts
+dist
+build
+target
+*.tar
+*.tar.gz
+*.zip
+
+# Logs & temporary files
+*.log
+logs/
+tmp/
+temp/
+.tmp
+
+# Environment & secrets
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+secrets.yaml
+
+# Test files
+test/
+tests/
+*_test.go
+*.test
+coverage/
+.coverage
+
+# Container-related
+docker-compose.yml
+docker-compose.*.yml
+.dockerignore
