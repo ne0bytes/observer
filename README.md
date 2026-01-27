@@ -3,6 +3,7 @@
 ![Version](https://img.shields.io/docker/v/ne0bytes/observer?sort=semver&label=Version)
 ![Base](https://img.shields.io/badge/Base-Alpine_3.23-0D597F?logo=alpinelinux)
 ![Size](https://img.shields.io/docker/image-size/ne0bytes/observer?label=Size)
+![Pulls](https://img.shields.io/docker/pulls/ne0bytes/observer?label=Pulls)
 ![License](https://img.shields.io/badge/License-Apache_2.0-blue)
 
 ## What Is This
