@@ -142,4 +142,4 @@ These will be patched when Alpine/Go upstream releases fixes. For ephemeral debu
 
 **Maintenance**: Actively maintained. Updates follow Alpine stable releases.
 
-Built with ❤️ by **[NΞO](https://gitlab.com/ne0b)** | **HAPPY DEBUGGING!** <img src="https://gitlab.com/-/project/77609833/uploads/392572b2d757579a44cce3d4693002bc/observer_glyph.svg" width="15" align="center" alt="🔭" />
+Built with ❤️ by **[NΞO](https://gitlab.com/ne.0)** | **HAPPY DEBUGGING!** <img src="https://gitlab.com/-/project/77609833/uploads/392572b2d757579a44cce3d4693002bc/observer_glyph.svg" width="15" style="vertical-align: middle;" alt="🔭" />
